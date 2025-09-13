@@ -11,6 +11,17 @@ header {
   box-shadow: 5px 5px 5px var(--clr-accent-300);
 }
 
+.main-title{
+  text-shadow:
+                -2px -2px 0 #000,
+                2px -2px 0 #000,
+                -2px 2px 0 #000,
+                2px 2px 0 #000,
+                -3px 0px 0 #000,
+                3px 0px 0 #000,
+                0px -3px 0 #000,
+                0px 3px 0 #000;
+}
 #page-container {
   position: relative;
   min-height: 100vh;
