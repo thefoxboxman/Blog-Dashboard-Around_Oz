@@ -103,11 +103,11 @@ select {
 * {
 	/* Colours */
 	--clr-accent-100: hsl(36, 100%, 86%); /* #ffe2b6*/
-	--clr-accent-200: hsl(42, 100%, 47%); /* #F2A900 */
-	--clr-accent-300: hsl(219, 100%, 26%); /* #003087 */
+	--clr-accent-200: hsl(77, 50%, 42%); /* #83a136 */
+	--clr-accent-300: hsl(353, 50%, 43%); /* #a33643 */
 
-	--clr-primary-400: hsl(37, 97%, 71%); /* #fdc66e */
-	--clr-primary-500: hsl(237, 30%, 55%); /* #6a6daf */
+	--clr-primary-400: hsl(353, 50%, 60%); /* #cc6672 */
+	--clr-primary-500: hsl(274, 31%, 43%); /* #724C8f */
 
 	--clr-neutral-100: hsl(45,29%,97%); /* #FAF9F6 */
 	--clr-neutral-900: hsl(200,30%,8%); /* #0E161A */
