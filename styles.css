@@ -161,3 +161,7 @@ button:hover {
   font-size: var(--s1);
   padding-top: 1em;
 }
+
+.video-link-button{
+  width: 350px;
+}
